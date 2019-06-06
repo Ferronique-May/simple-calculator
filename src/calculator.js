@@ -13,5 +13,5 @@ function multiply(){
     for (let i = 0; i < arguments.length; i++) {
         product *= parseFloat(arguments[i]);
     }
-    return product
+    return product;
 }
